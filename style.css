@@ -4,7 +4,7 @@
 body {
   background-image: linear-gradient(40deg, rgb(255,255,255), rgb(150,150,150));
   
-  margin 75%;
+  margin-left = 100px;
 }
 
 h1 {
