@@ -1,3 +1,6 @@
+
+
+
 body {
   background: linear-gradient(40deg, rgb(255,255,255), rgb(200,200,200));
 }
@@ -6,4 +9,10 @@ h1 {
 }
 p {
   color: rgb(50,0,0);
+  background: linear-gradient(40deg, rgb(255,255,255), rgb(200,200,200));
+}
+
+h2 {
+  rgb(0,0,150);
+  
 }
